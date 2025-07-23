@@ -9,6 +9,4 @@ Below are the presentation links for various course topics. Click on the course 
 - [Database Systems](https://www.canva.com/design/DAGgMvHjr3s/awY3OsmDRUQfZh5iB-HC9g/view?utm_content=DAGgMvHjr3s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8d43a5315)
 - [Operating Systems (OS) Presentation](https://www.canva.com/design/DAGtKU2wGO0/PW69yEkO7j20xwHc_TS4cw/view?utm_content=DAGtKU2wGO0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbab15f2b22)
 
-### Yet to be Added:
-- Computer Architecture
-- Capstone Project
+### More Will be added time to time.
