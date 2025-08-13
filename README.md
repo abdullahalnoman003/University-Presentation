@@ -2,6 +2,7 @@
 
 Below are the presentation links for various course topics. Click on the course name to view the presentation.
 
+- [Principals of Accounting, Econnomics & Business](https://www.canva.com/design/DAGvURpP_aE/lRqF1dxHF-gMOPaC63xN_Q/view?utm_content=DAGvURpP_aE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49b9aa37b7)
 - [Operating Systems ](https://www.canva.com/design/DAGtKU2wGO0/PW69yEkO7j20xwHc_TS4cw/view?utm_content=DAGtKU2wGO0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbab15f2b22)
 - [Database Systems](https://www.canva.com/design/DAGgMvHjr3s/awY3OsmDRUQfZh5iB-HC9g/view?utm_content=DAGgMvHjr3s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8d43a5315)
 - [Algorithms Design and Analysis](https://www.canva.com/design/DAGiEqcB0qU/oFtya3GnUU5P614cyd_czg/view?utm_content=DAGiEqcB0qU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d859a24eb)
