@@ -2,6 +2,7 @@
 
 Below are the presentation links for various course topics. Click on the course name to view the presentation.
 
+- [Business Analysis & Communication](https://www.canva.com/design/DAG6AHjSUdM/YYa9CiXMVkh30PmrCOIJ-A/view?utm_content=DAG6AHjSUdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a53ace098)
 - [Design Pattern](https://www.canva.com/design/DAG2DwStx2A/Sd6gjxnYjG_OZThdbAdLDw/view?utm_content=DAG2DwStx2A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33307debbf)
 - [Theory of Computing](https://www.canva.com/design/DAGvdEtniC4/Oavf8aDJ12hWGCMIWW4nvA/view?utm_content=DAGvdEtniC4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47e45f9119)
 - [Principals of Accounting, Econnomics & Business](https://www.canva.com/design/DAGvURpP_aE/lRqF1dxHF-gMOPaC63xN_Q/view?utm_content=DAGvURpP_aE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49b9aa37b7)
