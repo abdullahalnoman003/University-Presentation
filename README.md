@@ -2,6 +2,7 @@
 
 Below are the presentation links for various course topics. Click on the course name to view the presentation.
 
+- [Data Communication and Computer Networking](https://www.canva.com/design/DAG62MtCJsQ/5CabSrVMDI5xDfe3Kox8Xg/view?utm_content=DAG62MtCJsQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he06bde782b)
 - [Software Quality Assurance & Testing](https://www.canva.com/design/DAG7BOnbtgg/p8FWLEIjkGt-xlfWlT5hEg/view?utm_content=DAG7BOnbtgg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=had839c6a53)
 - [Business Analysis & Communication](https://www.canva.com/design/DAG6AHjSUdM/YYa9CiXMVkh30PmrCOIJ-A/view?utm_content=DAG6AHjSUdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a53ace098)
 - [Design Pattern](https://www.canva.com/design/DAG2DwStx2A/Sd6gjxnYjG_OZThdbAdLDw/view?utm_content=DAG2DwStx2A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33307debbf)
