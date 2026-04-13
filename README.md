@@ -2,12 +2,13 @@
 
 Below are the presentation links for various course topics. Click on the course name to view the presentation.
 
+- [Introduction to Machine Learning](https://canva.link/udzl6hiyw2kzzfn)
 - [Data Communication and Computer Networking](https://www.canva.com/design/DAG62MtCJsQ/5CabSrVMDI5xDfe3Kox8Xg/view?utm_content=DAG62MtCJsQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he06bde782b)
 - [Software Quality Assurance & Testing](https://www.canva.com/design/DAG7BOnbtgg/p8FWLEIjkGt-xlfWlT5hEg/view?utm_content=DAG7BOnbtgg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=had839c6a53)
 - [Business Analysis & Communication](https://www.canva.com/design/DAG6AHjSUdM/YYa9CiXMVkh30PmrCOIJ-A/view?utm_content=DAG6AHjSUdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a53ace098)
 - [Design Pattern](https://www.canva.com/design/DAG2DwStx2A/Sd6gjxnYjG_OZThdbAdLDw/view?utm_content=DAG2DwStx2A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33307debbf)
 - [Theory of Computing](https://www.canva.com/design/DAGvdEtniC4/Oavf8aDJ12hWGCMIWW4nvA/view?utm_content=DAGvdEtniC4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47e45f9119)
-- [Principals of Accounting, Econnomics & Business](https://www.canva.com/design/DAGvURpP_aE/lRqF1dxHF-gMOPaC63xN_Q/view?utm_content=DAGvURpP_aE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49b9aa37b7)
+- [Principals of Accounting, Economics & Business](https://www.canva.com/design/DAGvURpP_aE/lRqF1dxHF-gMOPaC63xN_Q/view?utm_content=DAGvURpP_aE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49b9aa37b7)
 - [Operating Systems](https://www.canva.com/design/DAGtKU2wGO0/PW69yEkO7j20xwHc_TS4cw/view?utm_content=DAGtKU2wGO0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbab15f2b22)
 - [Database Systems](https://www.canva.com/design/DAGgMvHjr3s/awY3OsmDRUQfZh5iB-HC9g/view?utm_content=DAGgMvHjr3s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8d43a5315)
 - [Algorithms Design and Analysis](https://www.canva.com/design/DAGiEqcB0qU/oFtya3GnUU5P614cyd_czg/view?utm_content=DAGiEqcB0qU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d859a24eb)
