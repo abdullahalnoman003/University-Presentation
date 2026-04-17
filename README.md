@@ -20,7 +20,7 @@ Below are the presentation links for various course topics. Click on the course 
 - [Bangladesh Studies](https://www.canva.com/design/DAGUNABB6vs/YeJnwhz85rsuDlx8FYvObA/view?utm_content=DAGUNABB6vs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Computer Architecture](https://www.canva.com/design/DAGYV4B1H84/_xqAypXXafvRfC0apDY3-w/view?utm_content=DAGYV4B1H84&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4dc59010db)
 - [SDLC](https://www.canva.com/design/DAF29NgFt00/x8CqFGULkdGHeSxnhNITqA/view?utm_content=DAF29NgFt00&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc49f8cb195)
-- [Digital Electronics](https://www.canva.com/design/DAGC1c5c7iE/P4xD0DFg-aQx3KxnNvqeWA/edit?utm_content=DAGC1c5c7iE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Digital Electronics](https://canva.link/bdlp50to1atiksx)
 - [Physics (MRI)](https://www.canva.com/design/DAF-FvfFxoY/VUgdyiR6OXYAS4AABt5VtQ/view?utm_content=DAF-FvfFxoY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1cd1f179f5)
 - [Discrete Mathematics](https://www.canva.com/design/DAGDlVHrHeY/wzx-8v76sdEhtwnMaK5M1Q/view?utm_content=DAGDlVHrHeY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h191d650ca2)
 - [Hackathon (ALUMNI CONNECT)](https://www.canva.com/design/DAGWg-z3H4o/-tdBA1Z34XzOx5-R6k4kRw/view?utm_content=DAGWg-z3H4o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf8e1cdeede)
