@@ -2,6 +2,7 @@
 
 Below are the presentation links for various course topics. Click on the course name to view the presentation.
 
+- [Software Architecture & Design](https://canva.link/w0yqb3rq99ll02z)
 - [Software Engineering Web Application Project](https://canva.link/w0yqb3rq99ll02z)
 - [Introduction to Machine Learning](https://canva.link/udzl6hiyw2kzzfn)
 - [Data Communication and Computer Networking](https://www.canva.com/design/DAG62MtCJsQ/5CabSrVMDI5xDfe3Kox8Xg/view?utm_content=DAG62MtCJsQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he06bde782b)
