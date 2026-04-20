@@ -2,6 +2,7 @@
 
 Below are the presentation links for various course topics. Click on the course name to view the presentation.
 
+- [Information System Security](https://canva.link/pwdwf4lz57yps10)
 - [Software Architecture & Design](https://canva.link/w0yqb3rq99ll02z)
 - [Software Engineering Web Application Project](https://canva.link/w0yqb3rq99ll02z)
 - [Introduction to Machine Learning](https://canva.link/udzl6hiyw2kzzfn)
