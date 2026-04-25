@@ -1,30 +1,49 @@
-# Presentation Links for Courses
+<h1 align="center">University Course Presentation</h1>
 
-Below are the presentation links for various course topics. Click on the course name to view the presentation.
+<p align="center">
+	A curated collection of presentation links for core university courses.
+</p>
 
-- [Information System Security](https://canva.link/pwdwf4lz57yps10)
-- [Software Architecture & Design](https://canva.link/w0yqb3rq99ll02z)
-- [Software Engineering Web Application Project](https://canva.link/w0yqb3rq99ll02z)
-- [Introduction to Machine Learning](https://canva.link/udzl6hiyw2kzzfn)
-- [Data Communication and Computer Networking](https://www.canva.com/design/DAG62MtCJsQ/5CabSrVMDI5xDfe3Kox8Xg/view?utm_content=DAG62MtCJsQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he06bde782b)
-- [Software Quality Assurance & Testing](https://www.canva.com/design/DAG7BOnbtgg/p8FWLEIjkGt-xlfWlT5hEg/view?utm_content=DAG7BOnbtgg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=had839c6a53)
-- [Business Analysis & Communication](https://www.canva.com/design/DAG6AHjSUdM/YYa9CiXMVkh30PmrCOIJ-A/view?utm_content=DAG6AHjSUdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a53ace098)
-- [Design Pattern](https://www.canva.com/design/DAG2DwStx2A/Sd6gjxnYjG_OZThdbAdLDw/view?utm_content=DAG2DwStx2A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33307debbf)
-- [Theory of Computing](https://www.canva.com/design/DAGvdEtniC4/Oavf8aDJ12hWGCMIWW4nvA/view?utm_content=DAGvdEtniC4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47e45f9119)
-- [Principals of Accounting, Economics & Business](https://www.canva.com/design/DAGvURpP_aE/lRqF1dxHF-gMOPaC63xN_Q/view?utm_content=DAGvURpP_aE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49b9aa37b7)
-- [Operating Systems](https://www.canva.com/design/DAGtKU2wGO0/PW69yEkO7j20xwHc_TS4cw/view?utm_content=DAGtKU2wGO0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbab15f2b22)
-- [Database Systems](https://www.canva.com/design/DAGgMvHjr3s/awY3OsmDRUQfZh5iB-HC9g/view?utm_content=DAGgMvHjr3s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8d43a5315)
-- [Algorithms Design and Analysis](https://www.canva.com/design/DAGiEqcB0qU/oFtya3GnUU5P614cyd_czg/view?utm_content=DAGiEqcB0qU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d859a24eb)
-- [Object Oriented Concept](https://www.canva.com/design/DAGU7QYbw5E/V6Cf0_N03pWGci2y4BXQWQ/view?utm_content=DAGU7QYbw5E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- [Software Development Capstone Project](https://www.canva.com/design/DAGVZosol7s/ZEUPt0BTh-ci4lG7AqW-2Q/view?utm_content=DAGVZosol7s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc057d70bc)
-- [Structured Programming](https://www.canva.com/design/DAGERfeSRuA/rDUHtRCebegAVDK03vSYzg/view?utm_content=DAGERfeSRuA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he18aff478e)
-- [Data Structure](https://www.canva.com/design/DAGU4MmbHXc/FGSXxTCCaRiBzaFkaqHU7A/view?utm_content=DAGU4MmbHXc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- [Bangladesh Studies](https://www.canva.com/design/DAGUNABB6vs/YeJnwhz85rsuDlx8FYvObA/view?utm_content=DAGUNABB6vs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- [Computer Architecture](https://www.canva.com/design/DAGYV4B1H84/_xqAypXXafvRfC0apDY3-w/view?utm_content=DAGYV4B1H84&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4dc59010db)
-- [SDLC](https://www.canva.com/design/DAF29NgFt00/x8CqFGULkdGHeSxnhNITqA/view?utm_content=DAF29NgFt00&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc49f8cb195)
-- [Digital Electronics](https://canva.link/bdlp50to1atiksx)
-- [Physics (MRI)](https://www.canva.com/design/DAF-FvfFxoY/VUgdyiR6OXYAS4AABt5VtQ/view?utm_content=DAF-FvfFxoY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1cd1f179f5)
-- [Discrete Mathematics](https://www.canva.com/design/DAGDlVHrHeY/wzx-8v76sdEhtwnMaK5M1Q/view?utm_content=DAGDlVHrHeY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h191d650ca2)
-- [Hackathon (ALUMNI CONNECT)](https://www.canva.com/design/DAGWg-z3H4o/-tdBA1Z34XzOx5-R6k4kRw/view?utm_content=DAGWg-z3H4o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf8e1cdeede)
+<p align="center">
+	<strong>All Courses</strong> • <strong>Organized Access</strong> • <strong>Continuously Updated</strong>
+</p>
 
-### More Will be added time to time.
+---
+
+## Overview
+
+This repository contains direct links to course presentations for quick reference.
+Use the table below to open any presentation instantly.
+
+## Course Presentations
+
+| Course Title | Presentation Link |
+|---|---|
+| Information System Security | [Open](https://canva.link/pwdwf4lz57yps10) |
+| Software Architecture & Design | [Open](https://canva.link/w0yqb3rq99ll02z) |
+| Software Engineering Web Application Project | [Open](https://canva.link/w0yqb3rq99ll02z) |
+| Introduction to Machine Learning | [Open](https://canva.link/udzl6hiyw2kzzfn) |
+| Data Communication and Computer Networking | [Open](https://www.canva.com/design/DAG62MtCJsQ/5CabSrVMDI5xDfe3Kox8Xg/view?utm_content=DAG62MtCJsQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he06bde782b) |
+| Software Quality Assurance & Testing | [Open](https://www.canva.com/design/DAG7BOnbtgg/p8FWLEIjkGt-xlfWlT5hEg/view?utm_content=DAG7BOnbtgg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=had839c6a53) |
+| Business Analysis & Communication | [Open](https://www.canva.com/design/DAG6AHjSUdM/YYa9CiXMVkh30PmrCOIJ-A/view?utm_content=DAG6AHjSUdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a53ace098) |
+| Design Pattern | [Open](https://www.canva.com/design/DAG2DwStx2A/Sd6gjxnYjG_OZThdbAdLDw/view?utm_content=DAG2DwStx2A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33307debbf) |
+| Theory of Computing | [Open](https://www.canva.com/design/DAGvdEtniC4/Oavf8aDJ12hWGCMIWW4nvA/view?utm_content=DAGvdEtniC4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47e45f9119) |
+| Principals of Accounting, Economics & Business | [Open](https://www.canva.com/design/DAGvURpP_aE/lRqF1dxHF-gMOPaC63xN_Q/view?utm_content=DAGvURpP_aE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49b9aa37b7) |
+| Operating Systems | [Open](https://www.canva.com/design/DAGtKU2wGO0/PW69yEkO7j20xwHc_TS4cw/view?utm_content=DAGtKU2wGO0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbab15f2b22) |
+| Database Systems | [Open](https://www.canva.com/design/DAGgMvHjr3s/awY3OsmDRUQfZh5iB-HC9g/view?utm_content=DAGgMvHjr3s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8d43a5315) |
+| Algorithms Design and Analysis | [Open](https://www.canva.com/design/DAGiEqcB0qU/oFtya3GnUU5P614cyd_czg/view?utm_content=DAGiEqcB0qU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d859a24eb) |
+| Object Oriented Concept | [Open](https://www.canva.com/design/DAGU7QYbw5E/V6Cf0_N03pWGci2y4BXQWQ/view?utm_content=DAGU7QYbw5E&utm_campaign=designshare&utm_medium=link&utm_source=editor) |
+| Software Development Capstone Project | [Open](https://www.canva.com/design/DAGVZosol7s/ZEUPt0BTh-ci4lG7AqW-2Q/view?utm_content=DAGVZosol7s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc057d70bc) |
+| Structured Programming | [Open](https://www.canva.com/design/DAGERfeSRuA/rDUHtRCebegAVDK03vSYzg/view?utm_content=DAGERfeSRuA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he18aff478e) |
+| Data Structure | [Open](https://www.canva.com/design/DAGU4MmbHXc/FGSXxTCCaRiBzaFkaqHU7A/view?utm_content=DAGU4MmbHXc&utm_campaign=designshare&utm_medium=link&utm_source=editor) |
+| Bangladesh Studies | [Open](https://www.canva.com/design/DAGUNABB6vs/YeJnwhz85rsuDlx8FYvObA/view?utm_content=DAGUNABB6vs&utm_campaign=designshare&utm_medium=link&utm_source=editor) |
+| Computer Architecture | [Open](https://www.canva.com/design/DAGYV4B1H84/_xqAypXXafvRfC0apDY3-w/view?utm_content=DAGYV4B1H84&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4dc59010db) |
+| SDLC | [Open](https://www.canva.com/design/DAF29NgFt00/x8CqFGULkdGHeSxnhNITqA/view?utm_content=DAF29NgFt00&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc49f8cb195) |
+| Digital Electronics | [Open](https://canva.link/bdlp50to1atiksx) |
+| Physics (MRI) | [Open](https://www.canva.com/design/DAF-FvfFxoY/VUgdyiR6OXYAS4AABt5VtQ/view?utm_content=DAF-FvfFxoY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1cd1f179f5) |
+| Discrete Mathematics | [Open](https://www.canva.com/design/DAGDlVHrHeY/wzx-8v76sdEhtwnMaK5M1Q/view?utm_content=DAGDlVHrHeY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h191d650ca2) |
+| Hackathon (ALUMNI CONNECT) | [Open](https://www.canva.com/design/DAGWg-z3H4o/-tdBA1Z34XzOx5-R6k4kRw/view?utm_content=DAGWg-z3H4o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf8e1cdeede) |
+
+## Update Note
+
+New course presentations will be added over time.
