@@ -19,8 +19,9 @@ Use the table below to open any presentation instantly.
 
 | Course Title | Presentation Link |
 |---|---|
+| Artificial Intelligence | <a href="https://canva.link/diww1towz3r43bw" target="_blank" rel="noopener noreferrer">Open</a> |
 | Information System Security | <a href="https://canva.link/pwdwf4lz57yps10" target="_blank" rel="noopener noreferrer">Open</a> |
-| Software Architecture & Design | <a href="https://canva.link/w0yqb3rq99ll02z" target="_blank" rel="noopener noreferrer">Open</a> |
+| Software Architecture & Design | <a href="https://canva.link/etrtghj3iwtzuz0" target="_blank" rel="noopener noreferrer">Open</a> |
 | Software Engineering Web Application Project | <a href="https://canva.link/w0yqb3rq99ll02z" target="_blank" rel="noopener noreferrer">Open</a> |
 | Introduction to Machine Learning | <a href="https://canva.link/udzl6hiyw2kzzfn" target="_blank" rel="noopener noreferrer">Open</a> |
 | Data Communication and Computer Networking | <a href="https://www.canva.com/design/DAG62MtCJsQ/5CabSrVMDI5xDfe3Kox8Xg/view?utm_content=DAG62MtCJsQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he06bde782b" target="_blank" rel="noopener noreferrer">Open</a> |
