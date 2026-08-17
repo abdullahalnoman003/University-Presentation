@@ -19,6 +19,7 @@ Use the table below to open any presentation instantly.
 
 | Course Title | Presentation Link |
 |---|---|
+| Introduction to Data Science | <a href="https://canva.link/56jfepiuamcyspj" target="_blank" rel="noopener noreferrer">Open</a> |
 | Statistical Data Analysis | <a href="https://canva.link/zdpty3eq9ns2np6" target="_blank" rel="noopener noreferrer">Open</a> |
 | Artificial Intelligence | <a href="https://canva.link/diww1towz3r43bw" target="_blank" rel="noopener noreferrer">Open</a> |
 | Information System Security | <a href="https://canva.link/pwdwf4lz57yps10" target="_blank" rel="noopener noreferrer">Open</a> |
